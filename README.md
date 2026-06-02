@@ -1,1 +1,1 @@
-
+This repository contains 3 ipynb files which I wrote in their entirety for my research and my classes. The file titled PHY 480 final project is a 2D Schrodinger equation solver that uses numerical integration methods. The file titled beam simulation takes a csv file of particles with position and angle data to simulate the FRIB linear accelerator after it interacts with a mask in the beamline. The file titled image based emittance calculation takes in a raw image and background image then calculates geometric and normalized emittance from a beam.
